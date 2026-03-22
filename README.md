@@ -10,6 +10,7 @@ A template for Project Reality repositories.
 
 - `README.md` with default notice sections and example structure.
 - `LICENSE.md` with MIT License.
+- `FUNDING.yml`.
 - Default branch.
 
 ## Instructions
