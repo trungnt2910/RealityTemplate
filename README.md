@@ -1,6 +1,6 @@
 # RealityTemplate <!-- Project title here. -->
 
-[![Discord Invite](https://img.shields.io/discord/1185622479436251227?logo=discord&logoColor=white&label=Discord&labelColor=%235865F2)][1]
+[![Discord Invite][2]][1]
 
 <!-- Short project description. -->
 
@@ -26,3 +26,4 @@ Need help using this project? Join me on [Discord][1], and let's find a solution
 
 <!-- Replace with Discord invite for project channel. -->
 [1]: https://reality.trungnt2910.com/discord
+[2]: https://img.shields.io/discord/1185622479436251227?logo=discord&logoColor=white&label=Discord&labelColor=%235865F2
